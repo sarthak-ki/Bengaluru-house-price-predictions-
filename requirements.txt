@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+joblib
+streamlit
+jupytext
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+plotly
+streamlit-option-menu
